@@ -12,10 +12,18 @@
   <i>"Aspiring Cloud Specialist with a passion for cloud computing, programming, and cybersecurity."</i>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/girbixatzori?label=Follow&style=social)](https://github.com/girbixatzori)
-![Profile Views](https://komarev.com/ghpvc/?username=girbixatzori&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/girbix?label=Follow&style=social)](https://github.com/girbix)
+![Profile Views](https://komarev.com/ghpvc/?username=girbix&color=blue)
 
 </div>
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girbix)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YourTelegramID)
 
 ---
 
@@ -51,4 +59,17 @@
 ## 🌟 Soft Skills
 
 - Problem Solving  
-- Autonomy & S
+- Autonomy & Self-Learning  
+- Technical Communication  
+- Initiative & Curiosity  
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=girbix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girbix&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="Top Languages" />
+
+</div>
