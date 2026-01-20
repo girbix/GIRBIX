@@ -31,6 +31,7 @@
 
 - 🏫 **ITS ITC Piemonte** – Currently studying Cloud Specialization  
 - 🎓 **I.T.I.S. Carlo Grassi** – High School Diploma in IT, Computer Technician  
+- 📘 **CCNA Certification (in progress)** – Learning networking fundamentals, routing, switching, and subnetting
 
 ---
 
@@ -48,7 +49,7 @@
 |:---:|:---|
 | **Cloud (basic)** | ![Azure](https://img.shields.io/badge/-Azure-0078D6?style=flat-square&logo=microsoft-azure&logoColor=white), IaaS, Virtual Networks |
 | **Operating Systems (basic)** | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white), ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Networking (basic)** | Subnetting, NAT, DHCP, DNS, Router & Switch Configuration (CCNA Training) |
+| **Networking (basic)** | Subnetting, NAT, DHCP, DNS, Router & Switch Configuration (**CCNA Training in progress**) |
 | **Cybersecurity (basic)** | Cybersecurity Fundamentals, Alert Management (CyberEx) |
 | **Infrastructure (basic)** | Virtual Machines (VMs), Load Balancers, SSH, Backup |
 | **Tools** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white) |
