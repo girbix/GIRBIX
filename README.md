@@ -22,7 +22,7 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girbix)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YourDiscordID)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/416262952963014656)  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YourTelegramID)
 
 ---
